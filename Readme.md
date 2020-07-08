@@ -1,4 +1,4 @@
-## Design Patterns Basics
+## Design Pattern Basics
 
 ### OO Basics
 
