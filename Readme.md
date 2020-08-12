@@ -13,11 +13,13 @@
 * **Favor composition over inheritance.**
 * **Program to interfaces, not concrete classes.**
 * **Strive of loosely coupled designs between objects that interact.**
-* [more to come]
+* **Classes should be open for extension and closed for modification**
+* **[more to come]**
   
 
 ### OO Patterns
 
 * **Strategy Design Pattern** - define a  family of algorithms , encapsulate each one, make them interchangeable, based on a client algorithm varies;  
 * **Observer Design Pattern** - define one to many dependencies between objects so that when object changes state, all its dependent objects are notified and updated automatically.
-* [more to come]
+* **Decorator Design Pattern** - attach additional responsibility to an object dynamically.**
+* **[more to come]**
