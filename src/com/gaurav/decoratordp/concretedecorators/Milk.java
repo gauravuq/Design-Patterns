@@ -13,7 +13,7 @@ public class Milk extends Beverage {
 
     @Override
     public String description() {
-        return this.beverage.description()+ "-Milk";
+        return this.beverage.description()+ ":Milk";
     }
 
     @Override

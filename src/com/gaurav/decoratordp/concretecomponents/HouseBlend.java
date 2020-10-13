@@ -5,11 +5,11 @@ import com.gaurav.decoratordp.abstractcomponent.Beverage;
 public class HouseBlend  extends Beverage {
     @Override
     public String description() {
-        return "House_Blend";
+        return "House-Blend";
     }
 
     @Override
     public Double cost() {
-        return 2.60;
+        return 4.00;
     }
 }

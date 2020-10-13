@@ -11,7 +11,7 @@ public class Soy extends Beverage {
 
     @Override
     public String description() {
-        return this.beverage.description()+ "-Soy";
+        return this.beverage.description()+ ":Soy";
     }
 
     @Override

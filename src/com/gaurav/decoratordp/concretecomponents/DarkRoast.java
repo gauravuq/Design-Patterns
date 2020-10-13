@@ -7,11 +7,11 @@ public class DarkRoast extends Beverage {
 
     @Override
     public String description() {
-        return "Dark_Roast";
+        return "Dark-Roast";
     }
 
     @Override
     public Double cost() {
-        return 3.20;
+        return 3.00;
     }
 }
